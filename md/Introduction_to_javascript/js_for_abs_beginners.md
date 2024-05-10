@@ -35,3 +35,4 @@
 * цикл for 	for (let i = 0; i < 10; i++) {console.log(i);}
 * цикл while 	let i = 0; while ( i<10){ console.log(`#$(i)`); i++;}
 * проходы по списку(2)	for (let i=0; i < arr.length; i++ ) {console.log(arr[i])}; for (let item of arr){ console.log(item);}
+* кавычки в json 	только двойные, вокруг ключей и строк-значений
